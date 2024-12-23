@@ -1,0 +1,4 @@
+[+] - Makedir command
+[ ] - Ls command
+[+] - touch command
+[ ] - cd command
